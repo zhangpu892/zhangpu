@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangpu.pages.dev</id>
     <title>loving keke</title>
-    <updated>2021-10-20T09:30:16.931Z</updated>
+    <updated>2021-10-20T09:42:44.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangpu.pages.dev"/>
     <link rel="self" href="https://zhangpu.pages.dev/atom.xml"/>
@@ -11,11 +11,24 @@
     <icon>https://zhangpu.pages.dev/favicon.ico</icon>
     <rights>All rights reserved 2021, loving keke</rights>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://zhangpu.pages.dev/post/about/</id>
-        <link href="https://zhangpu.pages.dev/post/about/">
+        <title type="html"><![CDATA[一些想说的]]></title>
+        <id>https://zhangpu.pages.dev/post/yi-xie-xiang-shuo-de/</id>
+        <link href="https://zhangpu.pages.dev/post/yi-xie-xiang-shuo-de/">
         </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
+        <updated>2021-10-20T09:41:37.000Z</updated>
+        <content type="html"><![CDATA[<p>❤️从今天起开始期望见你，带着高兴地调子，不能见面的假期，我将数着日子消遣儿，我一定一天撕两张日历。<br>
+▪️你好哇！张珂珂<br>
+▪️你要是不愿意，我就永远相思<br>
+▪️但愿我和你，是一支唱不完的歌<br>
+▪️祝你今天愉快，你明天的愉快我留着明天再祝🕐</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱着墨]]></title>
+        <id>https://zhangpu.pages.dev/post/begin/</id>
+        <link href="https://zhangpu.pages.dev/post/begin/">
+        </link>
+        <updated>2021-10-20T09:33:26.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到张浦的小站呀，很高兴遇见你！🤝</p>
 </blockquote>
