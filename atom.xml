@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangpu.pages.dev</id>
-    <title>Gridea</title>
-    <updated>2021-10-20T09:12:17.209Z</updated>
+    <title>loving keke</title>
+    <updated>2021-10-20T09:27:29.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangpu.pages.dev"/>
     <link rel="self" href="https://zhangpu.pages.dev/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>心之所向，素履以往</subtitle>
     <logo>https://zhangpu.pages.dev/images/avatar.png</logo>
     <icon>https://zhangpu.pages.dev/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, loving keke</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://zhangpu.pages.dev/post/about/</id>
@@ -24,7 +24,6 @@
 <h2 id="博主是张浦">👨‍💻 博主是张浦</h2>
 <h2 id="兴趣爱好喜欢珂珂">⛹ 兴趣爱好：喜欢珂珂😍</h2>
 <h2 id="联系我qq2856220448">📬 联系我：QQ2856220448</h2>
-<figure data-type="image" tabindex="1"><img src="https://zhangpu.pages.dev/post-images/1634720998706.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
